@@ -1,0 +1,25 @@
+h1 {
+    font-size: 48px;
+    font-style: italic;
+}
+.post-heading {
+    color: #1c9931;
+    font-size: 1.8em;
+    font-style: italic;
+}
+#main-nav {
+    font-size: 1.3em;
+}
+blockquote {
+    color: #e95c5c;
+    font-size: 1.3em;
+    font-style: bold;
+}
+img {
+    height: 50%;
+    width: 50%;
+    float: right;
+}
+nav :hover {
+    color: red;
+}
