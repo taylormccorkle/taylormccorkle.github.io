@@ -39,15 +39,6 @@ h6 {
 	text-decoration: underline;
 	font-size: 17px;
 }
-#sidebar ol {
-	position: fixed;
-	top: 150px;
-	right: 0px;
-}
-.photos {
-	width: 1180px;
-	margin: 0 auto;
-}
 header {
 	padding: 20px 0px 10px;
 	background: #7ebdf8;
